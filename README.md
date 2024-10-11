@@ -1,10 +1,10 @@
 # 🔊 Spotify 🎶🎼
 
 ## 💿 Description
-Based on Spotify dataset we are trying to identify the most commercially successful genre , runtime and artist. After the elaboration of the business question we came up with the 3 following hypothesis, that will be accepted or rejected, after our analysis:
+Based on Spotify dataset we are trying to identify the most commercially successful genre , release period and artist. After the elaboration of the business question we came up with the 3 following hypothesis, that will be accepted or rejected, after our analysis:
 
 ### 🥁  H1: Genre Popularity
-'Genres with higher average ratings and vote counts in the past 10 years will likely be more successful in terms of box office earnings’
+'Pop songs are more popular than songs from other genres.’
 
 ### 🎛  H2: Release period
 'Songs released after 2010 are, on average, more popular than songs released before 2010.'
