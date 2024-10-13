@@ -17,7 +17,7 @@ Based on Spotify dataset we are trying to identify the most commercially success
 - SQL Workbench
 - Dataset link- https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs
 - Git Hub link- https://github.com/mirajkarsneha/mini-project-spotify
-- Trello link- https://trello.com/invite/b/6705422208d48f4977de79e2/ATTIe61fd4faa19f1581fdb3f3ec7e8267b18EF383D5/kanban-template
+- Trello link- https://trello.com/invite/b/6705422208d48f4977de79e2/ATTIe61fd4faa19f1581fdb3f3ec7e8267b18EF383D5/spotify-miniproject
 - Presentation link - https://docs.google.com/presentation/d/1Zl9op72Bn9ZCgn8UZRXf_eQ-q_IJdZvCPd0bKanRWlk/edit?usp=sharing
 
 ## 🎧 Data Cleaning and Wrangling
